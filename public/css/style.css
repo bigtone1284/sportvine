@@ -1,0 +1,17 @@
+body {
+	font-size: 16px;
+}
+
+.videoElement {
+	height: 15em;
+	width: 15em;
+}
+
+.videoBox {
+	display: inline-block;
+}
+
+.videosBox {
+	overflow-x: scroll;
+	white-space: nowrap;
+}
